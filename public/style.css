@@ -1,0 +1,48 @@
+body {
+  background-color: #e6e6e6e6;
+  font-family: "Varela Round", sans-serif;
+}
+
+#index {
+  width: 100%;
+  max-width: 800px;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+#header {
+  margin-bottom: 15px;
+}
+
+#logo {
+  width: 7rem;
+}
+
+#signin {
+  width: 8rem;
+  height: 5.2rem;
+}
+
+#main {
+  padding-top: 5rem;
+  max-width: 1080px;
+}
+
+#card{
+  padding: 10px;
+  border-radius: 30px;
+}
+
+#foto{
+  height: 4rem;
+}
+
+#detail-foto{
+  border-radius: 30px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+  white-space: normal !important;
+}
